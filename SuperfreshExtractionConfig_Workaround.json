@@ -1,0 +1,116 @@
+{
+    "en-us-1": {
+		"Market": "en-us",
+		"WaitTimeInSec": "21600",
+		"SFSetStartTime": "03:00:00",
+		"SFSetEndTime": "05:59:59"
+	},
+	 "en-us-2": {
+		"Market": "en-us",
+		"WaitTimeInSec": "32400",
+		"SFSetStartTime": "06:00:00",
+		"SFSetEndTime": "08:59:59"
+	},
+	 "en-us-3": {
+		"Market": "en-us",
+		"WaitTimeInSec": "43200",
+		"SFSetStartTime": "09:00:00",
+		"SFSetEndTime": "11:59:59"
+	},
+	 "en-us-4": {
+		"Market": "en-us",
+		"WaitTimeInSec": "54000",
+		"SFSetStartTime": "12:00:00",
+		"SFSetEndTime": "14:59:59"
+	},
+	 "en-us-5": {
+		"Market": "en-us",
+		"WaitTimeInSec": "64800",
+		"SFSetStartTime": "15:00:00",
+		"SFSetEndTime": "17:59:59"
+	},
+	 "en-us-6": {
+		"Market": "en-us",
+		"WaitTimeInSec": "75600",
+		"SFSetStartTime": "18:00:00",
+		"SFSetEndTime": "21:00:00"
+	},
+	"de-de": {
+		"Market": "de-de",
+		"WaitTimeInSec": "84600",
+		"SFSetStartTime": "00:00:00",
+		"SFSetEndTime": "23:59:59"
+	},
+	"en-au": {
+		"Market": "en-au",
+		"WaitTimeInSec": "50400",
+		"SFSetStartTime": "00:00:00",
+		"SFSetEndTime": "23:59:59"
+	},
+	"en-ca": {
+		"Market": "en-ca",
+		"WaitTimeInSec": "32400",
+		"SFSetStartTime": "00:00:00",
+		"SFSetEndTime": "23:59:59"
+	},
+	"en-gb": {
+		"Market": "en-gb",
+		"WaitTimeInSec": "84600",
+		"SFSetStartTime": "00:00:00",
+		"SFSetEndTime": "23:59:59"
+	},
+	"en-in": {
+		"Market": "en-in",
+		"WaitTimeInSec": "72000",
+		"SFSetStartTime": "00:00:00",
+		"SFSetEndTime": "23:59:59"
+	},
+	"es-es": {
+		"Market": "es-es",
+		"WaitTimeInSec": "84600",
+		"SFSetStartTime": "00:00:00",
+		"SFSetEndTime": "23:59:59"
+	},
+	"fr-ca": {
+		"Market": "fr-ca",
+		"WaitTimeInSec": "32400",
+		"SFSetStartTime": "00:00:00",
+		"SFSetEndTime": "23:59:59"
+	},
+	"fr-fr": {
+		"Market": "fr-fr",
+		"WaitTimeInSec": "84600",
+		"SFSetStartTime": "00:00:00",
+		"SFSetEndTime": "23:59:59"
+	},
+	"it-it": {
+		"Market": "it-it",
+		"WaitTimeInSec": "84600",
+		"SFSetStartTime": "00:00:00",
+		"SFSetEndTime": "23:59:59"
+	},
+	"pt-br": {
+		"Market": "pt-br",
+		"WaitTimeInSec": "18000",
+		"SFSetStartTime": "00:00:00",
+		"SFSetEndTime": "23:59:59"
+	},
+	"ja-jp": {
+		"Market": "ja-jp",
+		"WaitTimeInSec": "7200",
+		"SFSetStartTime": "-04:00:00",
+		"SFSetEndTime": "01:59:59"
+	},
+	"zh-cn": {
+		"Market": "zh-cn",
+		"WaitTimeInSec": "7200",
+		"SFSetStartTime": "-04:00:00",
+		"SFSetEndTime": "01:59:59"
+	},
+	"es-mx": {
+		"Market": "es-mx",
+		"WaitTimeInSec": "32400",
+		"SFSetStartTime": "00:00:00",
+		"SFSetEndTime": "23:59:59"
+	}
+}

@@ -1,0 +1,36 @@
+{
+
+	"PerMarketConfigV2": {
+
+		/*
+		 * The following lists are the market-specific metastreams to be added. The strings are just added to the AES config file.
+		 * In the case of parametric streams, the format is {"Canonical Name":"Stream-Parameter"}
+		 * In this case the stream parameter is turned into a query augmentation, and the canonical name must be set up in MSDL.
+		 * The canonical name will be the one found in the extraction.
+		 */
+		
+		"MetastreamsAdd | de-de": {
+			"RUMFreshIE8Click-IL-1": "FreshIEClickNRTV2-Un",
+			"RUMFreshBingClick-IL-0": "FreshBingClickNRTV1-DeFr"
+		},
+		"MetastreamsAdd | en-au": {
+			"RUMFreshIE8Click-IL-1": "FreshIEClickNRTV2-Un"
+		},
+		"MetastreamsAdd | en-ca": {
+			"RUMFreshIE8Click-IL-1": "FreshIEClickNRTV2-Un"
+		},
+		"MetastreamsAdd | en-gb": {
+			"RUMFreshIE8Click-IL-1": "FreshIEClickNRTV2-Un"
+		},
+		"MetastreamsAdd | en-in": {
+			"RUMFreshIE8Click-IL-1": "FreshIEClickNRTV2-Un"
+		},
+		"MetastreamsAdd | en-us": {
+			"RUMFreshIE8Click-IL-1": "FreshIEClickNRTV2-Un"
+		},
+		"MetastreamsAdd | fr-fr": {
+			"RUMFreshIE8Click-IL-1": "FreshIEClickNRTV2-Un",
+			"RUMFreshBingClick-IL-0": "FreshBingClickNRTV1-DeFr"
+		},
+	},
+}
